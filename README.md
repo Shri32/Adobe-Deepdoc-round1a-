@@ -4,7 +4,6 @@
 
 The goal of Round 1A is to extract a structured outline from PDF files, capturing section headings along with their page numbers and hierarchy levels. The output must conform to a specific JSON schema and must be generated efficiently in a containerized environment.
 
----
 
 ## 🛠️ Project Structure
 
@@ -92,3 +91,6 @@ Designed and tested on Ubuntu 22.04 LTS
 
 # Adobe-Deepdoc
 This repository contains the complete solutions for Challenge Round 1A and Round 1B of the Adobe India Hackathon 2025.
+
+# Adobe-Deepdoc-round1a-
+This repository contains the complete solutions for Challenge Round 1A of the Adobe India Hackathon 2025.
