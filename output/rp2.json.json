@@ -1,0 +1,150 @@
+{
+  "title": "rp2.pdf.pdf",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "Dermatologist Level Dermoscopy Skin Cancer Classification Using",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Different Deep Learning Convolutional Neural Networks Algorithms",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Amirreza Rezvantalab 1 *, Habib Safigholi 2 *, Somayeh Karimijeshni 3",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "1. Introduction",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2. Methods and materials",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.1. Materials",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.2. Methods",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2.2.1. Google\u2019s Inception v3",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2.2.2. InceptionResNet v2",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2.2.3. ResNet 152",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "2.2.4. DenseNet 201",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3. Results",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "\ud835\udc43\ud835\udc5f\ud835\udc52\ud835\udc50\ud835\udc56\ud835\udc60\ud835\udc56\ud835\udc5c\ud835\udc5b (\ud835\udc5d\ud835\udc5c\ud835\udc60\ud835\udc56\ud835\udc61\ud835\udc56\ud835\udc63\ud835\udc52 \ud835\udc5d\ud835\udc5f\ud835\udc52\ud835\udc51\ud835\udc56\ud835\udc50\ud835\udc61\ud835\udc56\ud835\udc63\ud835\udc52 \ud835\udc63\ud835\udc4e\ud835\udc59\ud835\udc62\ud835\udc52) =",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Recall (true positive rate) =",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "\ud835\udc39 1 -score =",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "4. Discussion",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "5. Conclusion and Future works",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "6. References",
+      "page": 12
+    }
+  ]
+}

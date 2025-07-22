@@ -1,0 +1,25 @@
+{
+  "title": "rp6.pdf",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Skin Lesion Classi\ufb01cation Using CNNs with",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Patch-Based Attention and Diagnosis-Guided Loss",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Weighting",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "arXiv:1905.02793v2  [cs.CV]  9 May 2019",
+      "page": 1
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Minimalist White and Grey Professional Resume",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "CERTIFICATIONS",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "S H R I M A N T  S H A R M A",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "C O N T A C T",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "E D U C A T I O N",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "S K I L L S",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "L A N G U A G E S",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "P R O F I L E  S U M M A R Y",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "P R O J E C T  E X P E R I E N C E",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "I N T E R N S H I P  E X P E R I E N C E",
+      "page": 1
+    }
+  ]
+}
