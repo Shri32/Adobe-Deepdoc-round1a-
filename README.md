@@ -9,7 +9,7 @@ The goal of Round 1A is to extract a structured outline from PDF files, capturin
 
 round1a/
 ├── app/
-│ ├── extractor.py # Main processing script
+│ ├── extractor.py # Main processing script for heading/title extraction from PDFs
 ├── input
 ├── output
 ├── Dockerfile 
@@ -94,3 +94,4 @@ This repository contains the complete solutions for Challenge Round 1A and Round
 
 # Adobe-Deepdoc-round1a-
 This repository contains the complete solutions for Challenge Round 1A of the Adobe India Hackathon 2025.
+
