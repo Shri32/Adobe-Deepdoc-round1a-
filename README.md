@@ -39,8 +39,8 @@ docker run --rm \
   -v $(pwd)/output:/app/output \
   --network none \
   adobe-round1a
-
-##what's needed?
+```
+## what's needed?
 This project requires:
 
 Python 3.10
@@ -92,7 +92,7 @@ Output file is named {filename}.json.
 
  Container reads input as read-only
 
-##Notes
+## Notes
 
 The solution uses Python 3.10
 
@@ -110,4 +110,4 @@ This repository contains the complete solutions for Challenge Round 1A and Round
 # Adobe-Deepdoc-round1a-
 This repository contains the complete solutions for Challenge Round 1A of the Adobe India Hackathon 2025.
 
-## with regards Shrimant Sharma, Manya Sewkani, Abel Sangeet 
+## with regards Shrimant Sharma, Manya Sewkani, Abel Sangeeth 
