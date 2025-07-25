@@ -58,7 +58,7 @@ Outputs a structured JSON per file in /app/output/.
 Output file is named {filename}.json.
 
 ## Output Format Example
-
+```
 {
   "title": "Minimalist White and Grey Professional Resume",
   "outline": [
@@ -74,6 +74,7 @@ Output file is named {filename}.json.
     }
   ]
 }
+```
 ## Validation Checklist
 
  All input PDFs processed
