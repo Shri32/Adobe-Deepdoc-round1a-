@@ -1,5 +1,9 @@
  Adobe India Hackathon 2025 – Round 1A Submission
 
+## Author
+**Shrimant Sharma, Manya Sewkani, Abel Sangeeth**
+GitHub Repo: [Adobe-Deepdoc-round1a-](https://github.com/Shri32/Adobe-Deepdoc-round1a-)
+
 ## 📄 Challenge Overview
 
 The goal of Round 1A is to extract a structured outline from PDF files, capturing section headings along with their page numbers and hierarchy levels. The output must conform to a specific JSON schema and must be generated efficiently in a containerized environment.
